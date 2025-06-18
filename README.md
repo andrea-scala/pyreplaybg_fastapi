@@ -1,1 +1,1 @@
-# replaybg_parlante
+# Questa repository contiene il codice principale di Reply BG e lo espone tramite API utilizzando FastAPI.
